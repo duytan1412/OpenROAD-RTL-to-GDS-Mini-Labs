@@ -1,0 +1,16 @@
+# OpenLane run directories (too large)
+/runs/
+/openlane/runs/
+
+# Large CAD generated files
+*.gds
+*.gdsii
+*.vcd
+*.log
+*.spef
+*.sdf
+*.def
+*.lef
+*.lib
+*~
+*.bak
